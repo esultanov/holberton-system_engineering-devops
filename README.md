@@ -2,7 +2,7 @@
 
 ## Week 0 - Shell basics
 
-### In this project learnin objectives are:
+### In this project learning objectives are:
 
 - What does RTFM mean?
 - What is a Shebang
