@@ -1,4 +1,4 @@
-[Holberton School of software engineering](www.holbertonschool.com)
+[Holberton School of software engineering](holbertonschool.com)
 
 Week 0 - Shell basics
 
