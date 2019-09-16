@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1-1 alpha | fmt -u | tr -d ' '
+cut -c1-1 | fmt -u | tr -d ' '
